@@ -25,3 +25,4 @@ External Library list:<br />
 @date: 10-Jan-2017<br />
 LinkedIn: https://br.linkedin.com/in/flaviomauro<br />
 *******************************************************************************<br />
+<img src="https://github.com/flaviomauro/arduino-nfc-pn532/blob/master/arduino-nfc-pn52-fritzing-sketch.png">
