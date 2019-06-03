@@ -1,4 +1,4 @@
-# arduino-pn532
+# arduino-nfc-pn532
 <br />
 *******************************************************************************<br />
 Description:<br />
@@ -13,11 +13,13 @@ Item list:<br />
   <li>1 x OLED SSD1306 Display</li>
   <li>4 x Jumper cables M/F</li>
 </ul>
+
 External Library list:<br />
 <ul>
   <li>PN532.h - https://github.com/elechouse/PN532</li>
   <li>PN532_I2C.h - https://github.com/elechouse/PN532</li>
 <ul>
+<br />
 *******************************************************************************<br />
 @author: Flavio H. C. Mauro<br />
 @date: 10-Jan-2017<br />
