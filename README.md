@@ -18,7 +18,7 @@ External Library list:<br />
 <ul>
   <li>PN532.h - https://github.com/elechouse/PN532</li>
   <li>PN532_I2C.h - https://github.com/elechouse/PN532</li>
-<ul>
+</ul>
 <br />
 *******************************************************************************<br />
 @author: Flavio H. C. Mauro<br />
