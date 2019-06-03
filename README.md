@@ -10,7 +10,7 @@ Item list:<br />
   <li>1 x Adafruit Feather</li>
   <li>1 x Micro USB cable</li>
   <li>1 x Protoboard</li>
-  <li>1 x OLED SSD1306 Display</li>
+  <li>1 x NFC PN532</li>
   <li>4 x Jumper cables M/F</li>
 </ul>
 
@@ -19,6 +19,10 @@ External Library list:<br />
   <li>PN532.h - https://github.com/elechouse/PN532</li>
   <li>PN532_I2C.h - https://github.com/elechouse/PN532</li>
 </ul>
+
+Additional Actions:<br />
+   Please setup your PN532 switches to I2C.<br />
+
 <br />
 *******************************************************************************<br />
 @author: Flavio H. C. Mauro<br />
